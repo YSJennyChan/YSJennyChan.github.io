@@ -10,3 +10,4 @@ var h = prompt('Add 9')
 var i = prompt('Add the number of the day on which you were born')
 var j = (parseInt(i) - 203)/100
 alert('your birthday is ' + j)
+}
